@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>elementos/TelaInicial.png</file>
+        <file>elementos/Perso.png</file>
+        <file>icons/espada.png</file>
+        <file>classe.hpp</file>
+        <file>personagem.hpp</file>
+        <file>elementos/TelaDePersonagem.png</file>
+        <file>elementos/FotoAbout.jpg</file>
+        <file>icons/atk.png</file>
+        <file>icons/def.png</file>
+        <file>icons/vel.png</file>
+        <file>icons/arqueiro.png</file>
+        <file>icons/assassino.png</file>
+        <file>icons/guerreiro.png</file>
+        <file>icons/mago.png</file>
+    </qresource>
+</RCC>

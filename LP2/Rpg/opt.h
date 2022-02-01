@@ -1,0 +1,27 @@
+#ifndef OPT_H
+#define OPT_H
+
+#include <QDialog>
+
+namespace Ui {
+	class OPT;
+}
+
+class OPT : public QDialog
+{
+	Q_OBJECT
+
+public:
+	explicit OPT(QWidget *parent = nullptr);
+	~OPT();
+
+private slots:
+	void on_sair_clicked();
+
+	void on_sair_2_clicked();
+
+private:
+	Ui::OPT *ui;
+};
+
+#endif // OPT_H
